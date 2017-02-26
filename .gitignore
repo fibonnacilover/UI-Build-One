@@ -16,3 +16,11 @@ wp-content/plugins/hello.php
 /sitemap.xml
 /sitemap.xml.gz
 
+
+# All The Files I need to ignore now
+images/
+
+#Files that I don't want to be traked now, Later it shall be staged to commit.
+README.md
+Writeups.txt
+
